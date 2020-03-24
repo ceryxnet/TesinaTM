@@ -1,0 +1,21 @@
+
++-+-+-+-+-+-+-+-+
+|i|R|a|M|u|T|e|Q| - Sat Feb 29 13:09:11 2020
++-+-+-+-+-+-+-+-+
+
+
+Number of texts: 152
+Number of text segments: 152
+Number of forms: 6565
+Number of occurrences: 43053
+Number of lemmas: 4663
+Number of active forms: 4183
+Number of supplementary forms: 107
+Number of active forms with a frequency >= 3: 1261
+Mean of forms by segment: 283.243421
+Number of clusters: 7
+117 segments classified on 152 (76.97%)
+
+###########################
+time : 0h 0m 39s
+###########################

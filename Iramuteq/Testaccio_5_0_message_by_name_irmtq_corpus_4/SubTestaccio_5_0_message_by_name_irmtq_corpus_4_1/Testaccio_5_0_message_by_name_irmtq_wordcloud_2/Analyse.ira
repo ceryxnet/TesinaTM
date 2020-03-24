@@ -1,0 +1,20 @@
+[wordcloud]
+graphout = C:\Users\consu\Documents\iramuteq graziano\Testaccio_5_0_message_by_name_irmtq_corpus_4\SubTestaccio_5_0_message_by_name_irmtq_corpus_4_1\Testaccio_5_0_message_by_name_irmtq_wordcloud_2\nuage_1.png
+col_text = (0, 0, 255, 255)
+pathout = C:\Users\consu\Documents\iramuteq graziano\Testaccio_5_0_message_by_name_irmtq_corpus_4\SubTestaccio_5_0_message_by_name_irmtq_corpus_4_1\Testaccio_5_0_message_by_name_irmtq_wordcloud_2
+name = Testaccio_5_0_message_by_name_irmtq_wordcloud_2
+mincex = 0.5
+encoding = cp1252
+maxcex = 5.0
+maxword = 50
+lem = 1
+height = 800
+col_bg = (255, 255, 255, 255)
+width = 800
+svg = 0
+mode = 0
+time = 0h 0m 24s
+ira = C:\Users\consu\Documents\iramuteq graziano\Testaccio_5_0_message_by_name_irmtq_corpus_4\SubTestaccio_5_0_message_by_name_irmtq_corpus_4_1\Testaccio_5_0_message_by_name_irmtq_wordcloud_2\Analyse.ira
+corpus = f2a00f2b-b290-4efa-b060-f6a7d9f50681
+type = wordcloud
+uuid = d58aa271-5c9e-40b7-8838-ead00c823468

@@ -1,0 +1,25 @@
+[alceste]
+mincl = 0
+encoding = cp1252
+classif_mode = 1
+mode.patate = 0
+nbforme_uce = 0
+expressions = 1
+pathout = C:\Users\consu\Documents\iramuteq graziano\Testaccio_5_0_message_by_name_irmtq_corpus_1\Testaccio_5_0_message_by_name_irmtq_alceste_3
+uuid = 17c0aff4-c3db-4e44-8508-36fb55e1701c
+svdmethod = irlba
+nbactives = 1261
+ira = C:\Users\consu\Documents\iramuteq graziano\Testaccio_5_0_message_by_name_irmtq_corpus_1\Testaccio_5_0_message_by_name_irmtq_alceste_3\Analyse.ira
+corpus = fb92810e-8def-42d7-a268-d59c5c2b57e7
+type = alceste
+clnb = 7
+minforme = 2
+lem = 1
+eff_min_forme = 3
+nbcl = 4
+max_actives = 3000
+name = Testaccio_5_0_message_by_name_irmtq_alceste_3
+nbcl_p1 = 10
+time = 0h 0m 48s
+tailleuc1 = 12
+tailleuc2 = 14

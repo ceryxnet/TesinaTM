@@ -1,0 +1,3158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_x" for="node" attr.name="x" attr.type="double"/>
+  <key id="v_y" for="node" attr.name="y" attr.type="double"/>
+  <key id="v_weight" for="node" attr.name="weight" attr.type="double"/>
+  <key id="v_color" for="node" attr.name="color" attr.type="string"/>
+  <key id="v_frequences" for="node" attr.name="frequences" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">unico</data>
+      <data key="v_x">-0.555625698273218</data>
+      <data key="v_y">-3.1161220043522</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">36</data>
+      <data key="v_label">unico</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">presente</data>
+      <data key="v_x">0.524366786392701</data>
+      <data key="v_y">-1.36911026676903</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">presente</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">amichevole</data>
+      <data key="v_x">8.87400641361373</data>
+      <data key="v_y">-0.180468079887257</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">amichevole</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">attesa</data>
+      <data key="v_x">3.34710142844615</data>
+      <data key="v_y">-3.00243847162905</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">attesa</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">piacevole</data>
+      <data key="v_x">2.130940970768</data>
+      <data key="v_y">0.242609948634691</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">31</data>
+      <data key="v_label">piacevole</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">prodotto</data>
+      <data key="v_x">3.45530467840722</data>
+      <data key="v_y">-2.0107850956055</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">26</data>
+      <data key="v_label">prodotto</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">sugo</data>
+      <data key="v_x">4.39121828378385</data>
+      <data key="v_y">-2.17814169985312</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">sugo</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">mozzarella</data>
+      <data key="v_x">4.30296638164743</data>
+      <data key="v_y">0.318763863041975</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">mozzarella</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">resto</data>
+      <data key="v_x">8.2450098424921</data>
+      <data key="v_y">-0.26195976838115</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">resto</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">economico</data>
+      <data key="v_x">7.72531338330316</data>
+      <data key="v_y">1.83698742357343</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">economico</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">attento</data>
+      <data key="v_x">-2.0692666545989</data>
+      <data key="v_y">0.00971238645241361</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">25</data>
+      <data key="v_label">attento</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">lungo</data>
+      <data key="v_x">-2.45931992163109</data>
+      <data key="v_y">-0.407909262237363</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">lungo</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">gusto</data>
+      <data key="v_x">2.88478266672963</data>
+      <data key="v_y">-1.38514673090856</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">41</data>
+      <data key="v_label">gusto</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">pizza</data>
+      <data key="v_x">1.87776777157573</data>
+      <data key="v_y">-1.1678056082754</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">48</data>
+      <data key="v_label">pizza</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">caldo</data>
+      <data key="v_x">3.42608341200397</data>
+      <data key="v_y">-0.729012502762458</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">30</data>
+      <data key="v_label">caldo</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">fungo</data>
+      <data key="v_x">3.56021958169151</data>
+      <data key="v_y">2.6948474924071</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">fungo</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">giusto</data>
+      <data key="v_x">1.64421820594864</data>
+      <data key="v_y">-0.339163078644793</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">32</data>
+      <data key="v_label">giusto</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">panino</data>
+      <data key="v_x">1.1831742290089</data>
+      <data key="v_y">-1.68904193481979</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">21</data>
+      <data key="v_label">panino</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">colazione</data>
+      <data key="v_x">2.86815913530454</data>
+      <data key="v_y">2.60863969242571</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">colazione</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">cibo</data>
+      <data key="v_x">2.1784667372159</data>
+      <data key="v_y">-0.801613095976041</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">69</data>
+      <data key="v_label">cibo</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">sabato</data>
+      <data key="v_x">-2.51967772785738</data>
+      <data key="v_y">-0.0326950417526599</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">sabato</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">cicoria</data>
+      <data key="v_x">2.96985337329536</data>
+      <data key="v_y">-2.94705491812795</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">cicoria</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">genuino</data>
+      <data key="v_x">8.60813253081649</data>
+      <data key="v_y">0.859648667927064</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">genuino</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">bibita</data>
+      <data key="v_x">3.1131397033136</data>
+      <data key="v_y">-3.67250880919486</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">bibita</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">condimento</data>
+      <data key="v_x">4.28575593232771</data>
+      <data key="v_y">-2.65392378852118</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">condimento</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">vicino</data>
+      <data key="v_x">0.978854592332267</data>
+      <data key="v_y">-0.324483271118538</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">19</data>
+      <data key="v_label">vicino</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">menu</data>
+      <data key="v_x">1.79769139221345</data>
+      <data key="v_y">0.0893624406301285</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">31</data>
+      <data key="v_label">menu</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">croccante</data>
+      <data key="v_x">4.40536924922053</data>
+      <data key="v_y">-1.20358610948248</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">croccante</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">bar</data>
+      <data key="v_x">-3.09256138666566</data>
+      <data key="v_y">0.705021887495348</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">bar</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">bottiglia</data>
+      <data key="v_x">0.648398681930822</data>
+      <data key="v_y">-0.902702141430039</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">bottiglia</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">ordine</data>
+      <data key="v_x">8.02011353384482</data>
+      <data key="v_y">-1.41607981300734</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">ordine</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">bancone</data>
+      <data key="v_x">4.17038568835263</data>
+      <data key="v_y">-2.36431346507762</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">bancone</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">menù</data>
+      <data key="v_x">3.18132876164341</data>
+      <data key="v_y">-1.52826750204592</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">34</data>
+      <data key="v_label">menù</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">professionale</data>
+      <data key="v_x">2.37954210308551</data>
+      <data key="v_y">-2.83655747258733</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">professionale</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">consiglio</data>
+      <data key="v_x">2.88045898596115</data>
+      <data key="v_y">0.51187073067702</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">74</data>
+      <data key="v_label">consiglio</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">interno</data>
+      <data key="v_x">2.97808121498825</data>
+      <data key="v_y">-2.42846484163856</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">20</data>
+      <data key="v_label">interno</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">fantastico</data>
+      <data key="v_x">6.98354906933682</data>
+      <data key="v_y">1.467659299612</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">19</data>
+      <data key="v_label">fantastico</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">caffè</data>
+      <data key="v_x">7.83644376465515</data>
+      <data key="v_y">-0.524432273138939</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">20</data>
+      <data key="v_label">caffè</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">pezzo</data>
+      <data key="v_x">-2.95643055830713</data>
+      <data key="v_y">0.0973317249730116</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">pezzo</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">sapore</data>
+      <data key="v_x">2.02301058943008</data>
+      <data key="v_y">0.620926727933412</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">43</data>
+      <data key="v_label">sapore</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">pecca</data>
+      <data key="v_x">-1.4901464732555</data>
+      <data key="v_y">-3.56136485109162</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">pecca</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">bello</data>
+      <data key="v_x">2.75046338064</data>
+      <data key="v_y">-1.61965777305044</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">43</data>
+      <data key="v_label">bello</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">verdura</data>
+      <data key="v_x">8.30408921131292</data>
+      <data key="v_y">0.987930609943158</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">verdura</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">serata</data>
+      <data key="v_x">-1.98300692687892</data>
+      <data key="v_y">0.557171302914507</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">36</data>
+      <data key="v_label">serata</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">piazza</data>
+      <data key="v_x">8.75732182550402</data>
+      <data key="v_y">1.28269745325962</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">piazza</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">servizio</data>
+      <data key="v_x">1.5627247156334</data>
+      <data key="v_y">0.00762441486874107</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">90</data>
+      <data key="v_label">servizio</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">focaccia</data>
+      <data key="v_x">8.71819157352287</data>
+      <data key="v_y">0.077471578312283</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">focaccia</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">migliore</data>
+      <data key="v_x">3.20705778001074</data>
+      <data key="v_y">-1.89149127929268</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">26</data>
+      <data key="v_label">migliore</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">accogliente</data>
+      <data key="v_x">2.41492040957543</data>
+      <data key="v_y">-1.44909514413293</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">51</data>
+      <data key="v_label">accogliente</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">cura</data>
+      <data key="v_x">-1.15871018460512</data>
+      <data key="v_y">-3.32683669121889</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">cura</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">eccellente</data>
+      <data key="v_x">-1.92911075207543</data>
+      <data key="v_y">-0.191220170836476</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">34</data>
+      <data key="v_label">eccellente</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">carta</data>
+      <data key="v_x">3.28151051021695</data>
+      <data key="v_y">0.590154722096468</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">carta</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">dolce</data>
+      <data key="v_x">8.47949118087185</data>
+      <data key="v_y">0.603679593362969</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">56</data>
+      <data key="v_label">dolce</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">super</data>
+      <data key="v_x">3.83888716699007</data>
+      <data key="v_y">0.311756243342297</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">super</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">occasione</data>
+      <data key="v_x">4.63416549979974</data>
+      <data key="v_y">-1.57109549223143</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">occasione</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">strepitoso</data>
+      <data key="v_x">4.6140856757539</data>
+      <data key="v_y">-0.100725250021893</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">strepitoso</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">vivo</data>
+      <data key="v_x">-2.85902152643628</data>
+      <data key="v_y">1.23502980298292</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">vivo</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">vista</data>
+      <data key="v_x">3.76901230920995</data>
+      <data key="v_y">-1.32278293309057</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">19</data>
+      <data key="v_label">vista</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">complimento</data>
+      <data key="v_x">7.80776772405815</data>
+      <data key="v_y">0.411820437411295</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">21</data>
+      <data key="v_label">complimento</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">fritto</data>
+      <data key="v_x">0.854361568355176</data>
+      <data key="v_y">-0.622719989800583</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">20</data>
+      <data key="v_label">fritto</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">minuto</data>
+      <data key="v_x">0.430479289574832</data>
+      <data key="v_y">2.50282609808129</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">minuto</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">speciale</data>
+      <data key="v_x">2.24987587672518</data>
+      <data key="v_y">-3.40401319542958</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">speciale</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">forno</data>
+      <data key="v_x">4.11128725072623</data>
+      <data key="v_y">-0.200164542745336</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">forno</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">pecorino</data>
+      <data key="v_x">1.59191536595471</data>
+      <data key="v_y">-3.30971593921823</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">pecorino</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">posto</data>
+      <data key="v_x">1.44810319612631</data>
+      <data key="v_y">-3.01069683716489</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">posto</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">discreto</data>
+      <data key="v_x">7.89138677858841</data>
+      <data key="v_y">0.0911911498772645</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">21</data>
+      <data key="v_label">discreto</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">piccolo</data>
+      <data key="v_x">2.98100351137939</data>
+      <data key="v_y">-0.422375288336158</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">45</data>
+      <data key="v_label">piccolo</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">pessimo</data>
+      <data key="v_x">0.350693645678798</data>
+      <data key="v_y">1.10695480427973</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">19</data>
+      <data key="v_label">pessimo</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">alto</data>
+      <data key="v_x">3.16454669945215</data>
+      <data key="v_y">0.133384337474278</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">28</data>
+      <data key="v_label">alto</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">cucina</data>
+      <data key="v_x">2.19134727191926</data>
+      <data key="v_y">-1.18449227889443</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">60</data>
+      <data key="v_label">cucina</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">hamburger</data>
+      <data key="v_x">-1.65325365057303</data>
+      <data key="v_y">-4.00764799149583</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">8</data>
+      <data key="v_label">hamburger</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">ampio</data>
+      <data key="v_x">2.64918494232326</data>
+      <data key="v_y">1.94158635201737</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">25</data>
+      <data key="v_label">ampio</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">positivo</data>
+      <data key="v_x">7.63993865508117</data>
+      <data key="v_y">-1.08209030528111</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">positivo</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">pietanza</data>
+      <data key="v_x">2.66940189523499</data>
+      <data key="v_y">1.19404203627668</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">pietanza</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">can</data>
+      <data key="v_x">-4.5984869259076</data>
+      <data key="v_y">1.93411712094908</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">can</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">scarso</data>
+      <data key="v_x">9.24405607196239</data>
+      <data key="v_y">-0.612122555446621</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">scarso</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">prenotazione</data>
+      <data key="v_x">-2.38723553646022</data>
+      <data key="v_y">1.41344578166785</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">prenotazione</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">domenica</data>
+      <data key="v_x">8.31177334774642</data>
+      <data key="v_y">-1.00033164266483</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">domenica</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">cocktail</data>
+      <data key="v_x">-2.92872061883309</data>
+      <data key="v_y">-0.380922494102179</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">cocktail</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">stile</data>
+      <data key="v_x">-2.58537223433367</data>
+      <data key="v_y">0.355550732659716</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">stile</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">base</data>
+      <data key="v_x">4.28012641384233</data>
+      <data key="v_y">-1.69443660292423</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">base</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">possibilità</data>
+      <data key="v_x">3.87852367557702</data>
+      <data key="v_y">-1.61988220906505</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">possibilità</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">squisito</data>
+      <data key="v_x">4.09796507796651</data>
+      <data key="v_y">-0.923217254706966</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">squisito</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">simpatico</data>
+      <data key="v_x">1.66713118263346</data>
+      <data key="v_y">-0.967795646887757</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">43</data>
+      <data key="v_label">simpatico</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">formula</data>
+      <data key="v_x">9.3638912752922</data>
+      <data key="v_y">-1.10792508267344</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">formula</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">pizzeria</data>
+      <data key="v_x">3.5633082989478</data>
+      <data key="v_y">0.521308583770245</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">pizzeria</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">romano</data>
+      <data key="v_x">2.90134207619226</data>
+      <data key="v_y">-0.912757509925348</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">62</data>
+      <data key="v_label">romano</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">accoglienza</data>
+      <data key="v_x">3.71072422398445</data>
+      <data key="v_y">-2.26934614879119</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">accoglienza</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">basso</data>
+      <data key="v_x">4.39537259467015</data>
+      <data key="v_y">-0.6920390653928</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">basso</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">insalata</data>
+      <data key="v_x">-1.29585255728833</data>
+      <data key="v_y">-4.40463249564</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">8</data>
+      <data key="v_label">insalata</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">gentilezza</data>
+      <data key="v_x">1.20394057032508</data>
+      <data key="v_y">0.338386888594227</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">gentilezza</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">quantità</data>
+      <data key="v_x">0.683048274904789</data>
+      <data key="v_y">2.13788219039402</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">quantità</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">sera</data>
+      <data key="v_x">-2.09725066228192</data>
+      <data key="v_y">0.249092488463785</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">35</data>
+      <data key="v_label">sera</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">cameriere</data>
+      <data key="v_x">-1.79122234872288</data>
+      <data key="v_y">0.855185562691545</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">37</data>
+      <data key="v_label">cameriere</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">noto</data>
+      <data key="v_x">1.75842227881682</data>
+      <data key="v_y">-2.53226329237604</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">noto</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">vivamente</data>
+      <data key="v_x">3.33509603892114</data>
+      <data key="v_y">2.16620128996045</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">vivamente</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">buffet</data>
+      <data key="v_x">-3.54139408174916</data>
+      <data key="v_y">0.780471043573281</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">buffet</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">sala</data>
+      <data key="v_x">-1.31167223856749</data>
+      <data key="v_y">-2.9778392116315</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">sala</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">bicchiere</data>
+      <data key="v_x">-0.297410948808072</data>
+      <data key="v_y">-4.52888272279751</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">bicchiere</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">crudo</data>
+      <data key="v_x">4.12634900357091</data>
+      <data key="v_y">0.921317309878862</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">crudo</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">proposta</data>
+      <data key="v_x">-1.06866153958622</data>
+      <data key="v_y">-3.61927988832576</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">proposta</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">familiare</data>
+      <data key="v_x">1.550431594786</data>
+      <data key="v_y">-2.66012768529837</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">familiare</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">giro</data>
+      <data key="v_x">7.94469947994468</data>
+      <data key="v_y">-0.946244217146982</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">giro</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">primo</data>
+      <data key="v_x">2.39397656525601</data>
+      <data key="v_y">0.96002925736649</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">82</data>
+      <data key="v_label">primo</data>
+    </node>
+    <node id="n104">
+      <data key="v_name">cioccolato</data>
+      <data key="v_x">1.90568699632467</data>
+      <data key="v_y">1.12579962141766</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">cioccolato</data>
+    </node>
+    <node id="n105">
+      <data key="v_name">cordiale</data>
+      <data key="v_x">-0.477966109125118</data>
+      <data key="v_y">-3.40081351505357</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">32</data>
+      <data key="v_label">cordiale</data>
+    </node>
+    <node id="n106">
+      <data key="v_name">ricco</data>
+      <data key="v_x">2.18214884062887</data>
+      <data key="v_y">1.06397654498064</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">ricco</data>
+    </node>
+    <node id="n107">
+      <data key="v_name">collega</data>
+      <data key="v_x">8.34793567481447</data>
+      <data key="v_y">-0.668430471563337</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">collega</data>
+    </node>
+    <node id="n108">
+      <data key="v_name">carbonaro</data>
+      <data key="v_x">2.93138594103921</data>
+      <data key="v_y">-2.11475727362088</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">26</data>
+      <data key="v_label">carbonaro</data>
+    </node>
+    <node id="n109">
+      <data key="v_name">originale</data>
+      <data key="v_x">0.972249151483139</data>
+      <data key="v_y">-1.89288920941026</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">originale</data>
+    </node>
+    <node id="n110">
+      <data key="v_name">punto</data>
+      <data key="v_x">1.49935820503022</data>
+      <data key="v_y">-2.24690193650094</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">punto</data>
+    </node>
+    <node id="n111">
+      <data key="v_name">particolare</data>
+      <data key="v_x">3.64860193528847</data>
+      <data key="v_y">0.232952112205576</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">19</data>
+      <data key="v_label">particolare</data>
+    </node>
+    <node id="n112">
+      <data key="v_name">persiano</data>
+      <data key="v_x">14.1906717271325</data>
+      <data key="v_y">1.38645025435632</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">1</data>
+      <data key="v_label">persiano</data>
+    </node>
+    <node id="n113">
+      <data key="v_name">ambiente</data>
+      <data key="v_x">2.32677052903601</data>
+      <data key="v_y">-0.252652099503307</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">39</data>
+      <data key="v_label">ambiente</data>
+    </node>
+    <node id="n114">
+      <data key="v_name">disponibile</data>
+      <data key="v_x">-1.54567040791404</data>
+      <data key="v_y">0.811796791041502</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">45</data>
+      <data key="v_label">disponibile</data>
+    </node>
+    <node id="n115">
+      <data key="v_name">storico</data>
+      <data key="v_x">2.0076342936398</data>
+      <data key="v_y">3.35733672671117</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">storico</data>
+    </node>
+    <node id="n116">
+      <data key="v_name">carino</data>
+      <data key="v_x">2.5705492315191</data>
+      <data key="v_y">-0.482876529465945</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">48</data>
+      <data key="v_label">carino</data>
+    </node>
+    <node id="n117">
+      <data key="v_name">rustico</data>
+      <data key="v_x">10.4765750027311</data>
+      <data key="v_y">1.55527015552492</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">rustico</data>
+    </node>
+    <node id="n118">
+      <data key="v_name">pollo</data>
+      <data key="v_x">-2.01565377793993</data>
+      <data key="v_y">1.44208360984913</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">pollo</data>
+    </node>
+    <node id="n119">
+      <data key="v_name">baccalà</data>
+      <data key="v_x">4.0943810044658</data>
+      <data key="v_y">-2.01190551168629</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">baccalà</data>
+    </node>
+    <node id="n120">
+      <data key="v_name">diverso</data>
+      <data key="v_x">6.97924623441161</data>
+      <data key="v_y">0.75122079642276</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">30</data>
+      <data key="v_label">diverso</data>
+    </node>
+    <node id="n121">
+      <data key="v_name">pepe</data>
+      <data key="v_x">-0.936360514499238</data>
+      <data key="v_y">-3.83074543740245</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">33</data>
+      <data key="v_label">pepe</data>
+    </node>
+    <node id="n122">
+      <data key="v_name">porzione</data>
+      <data key="v_x">2.57307029887374</data>
+      <data key="v_y">-2.38261107152589</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">22</data>
+      <data key="v_label">porzione</data>
+    </node>
+    <node id="n123">
+      <data key="v_name">medio</data>
+      <data key="v_x">1.51681862042964</data>
+      <data key="v_y">-0.515711305679571</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">34</data>
+      <data key="v_label">medio</data>
+    </node>
+    <node id="n124">
+      <data key="v_name">carciofo</data>
+      <data key="v_x">2.59563639437079</data>
+      <data key="v_y">0.160332912083257</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">26</data>
+      <data key="v_label">carciofo</data>
+    </node>
+    <node id="n125">
+      <data key="v_name">costo</data>
+      <data key="v_x">2.38972752799092</data>
+      <data key="v_y">3.08145421823828</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">costo</data>
+    </node>
+    <node id="n126">
+      <data key="v_name">personale</data>
+      <data key="v_x">2.59175316220849</data>
+      <data key="v_y">0.443983553532654</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">92</data>
+      <data key="v_label">personale</data>
+    </node>
+    <node id="n127">
+      <data key="v_name">scelta</data>
+      <data key="v_x">-0.200037719840452</data>
+      <data key="v_y">-3.24686089882243</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">53</data>
+      <data key="v_label">scelta</data>
+    </node>
+    <node id="n128">
+      <data key="v_name">quartiere</data>
+      <data key="v_x">1.20437922790635</data>
+      <data key="v_y">0.10772011001091</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">quartiere</data>
+    </node>
+    <node id="n129">
+      <data key="v_name">proprio</data>
+      <data key="v_x">7.49432916809275</data>
+      <data key="v_y">0.12821977187841</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">31</data>
+      <data key="v_label">proprio</data>
+    </node>
+    <node id="n130">
+      <data key="v_name">rapporto</data>
+      <data key="v_x">-0.742149487692161</data>
+      <data key="v_y">-2.94588067908145</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">29</data>
+      <data key="v_label">rapporto</data>
+    </node>
+    <node id="n131">
+      <data key="v_name">secondo</data>
+      <data key="v_x">7.34741038847327</data>
+      <data key="v_y">-0.418454766107882</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">35</data>
+      <data key="v_label">secondo</data>
+    </node>
+    <node id="n132">
+      <data key="v_name">panna</data>
+      <data key="v_x">10.8273240529623</data>
+      <data key="v_y">1.08481905187111</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">panna</data>
+    </node>
+    <node id="n133">
+      <data key="v_name">acqua</data>
+      <data key="v_x">1.61027644515241</data>
+      <data key="v_y">-2.00356949192991</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">20</data>
+      <data key="v_label">acqua</data>
+    </node>
+    <node id="n134">
+      <data key="v_name">rosso</data>
+      <data key="v_x">1.15054499252571</data>
+      <data key="v_y">-2.21954891434466</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">rosso</data>
+    </node>
+    <node id="n135">
+      <data key="v_name">problema</data>
+      <data key="v_x">8.19694116828089</data>
+      <data key="v_y">1.27803838191671</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">problema</data>
+    </node>
+    <node id="n136">
+      <data key="v_name">freddo</data>
+      <data key="v_x">8.16465734714967</data>
+      <data key="v_y">-0.00127054381985031</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">freddo</data>
+    </node>
+    <node id="n137">
+      <data key="v_name">salato</data>
+      <data key="v_x">1.98928964430004</data>
+      <data key="v_y">-2.690135568071</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">salato</data>
+    </node>
+    <node id="n138">
+      <data key="v_name">patata</data>
+      <data key="v_x">7.60131117235094</data>
+      <data key="v_y">1.1865330788761</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">19</data>
+      <data key="v_label">patata</data>
+    </node>
+    <node id="n139">
+      <data key="v_name">rapido</data>
+      <data key="v_x">3.72595892754159</data>
+      <data key="v_y">0.859522614163822</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">rapido</data>
+    </node>
+    <node id="n140">
+      <data key="v_name">romanesco</data>
+      <data key="v_x">2.47754979047282</data>
+      <data key="v_y">3.59405972416076</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">8</data>
+      <data key="v_label">romanesco</data>
+    </node>
+    <node id="n141">
+      <data key="v_name">pasticceria</data>
+      <data key="v_x">10.9538628616772</data>
+      <data key="v_y">1.54451065958041</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">pasticceria</data>
+    </node>
+    <node id="n142">
+      <data key="v_name">casa</data>
+      <data key="v_x">7.14424732618167</data>
+      <data key="v_y">0.293426432015674</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">39</data>
+      <data key="v_label">casa</data>
+    </node>
+    <node id="n143">
+      <data key="v_name">vero</data>
+      <data key="v_x">2.32110526587589</data>
+      <data key="v_y">0.648133685764735</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">22</data>
+      <data key="v_label">vero</data>
+    </node>
+    <node id="n144">
+      <data key="v_name">leggero</data>
+      <data key="v_x">4.01349591906435</data>
+      <data key="v_y">-0.516133200402821</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">19</data>
+      <data key="v_label">leggero</data>
+    </node>
+    <node id="n145">
+      <data key="v_name">tranquillo</data>
+      <data key="v_x">8.54924189484152</data>
+      <data key="v_y">-0.450550750069667</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">tranquillo</data>
+    </node>
+    <node id="n146">
+      <data key="v_name">perfetto</data>
+      <data key="v_x">2.72957074630124</data>
+      <data key="v_y">-3.00360977851377</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">perfetto</data>
+    </node>
+    <node id="n147">
+      <data key="v_name">via</data>
+      <data key="v_x">1.23525636192541</data>
+      <data key="v_y">-0.286699416872634</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">27</data>
+      <data key="v_label">via</data>
+    </node>
+    <node id="n148">
+      <data key="v_name">cortese</data>
+      <data key="v_x">2.96368996203455</data>
+      <data key="v_y">-1.85043439733527</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">27</data>
+      <data key="v_label">cortese</data>
+    </node>
+    <node id="n149">
+      <data key="v_name">grande</data>
+      <data key="v_x">3.07383370575477</data>
+      <data key="v_y">-0.674554306762955</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">40</data>
+      <data key="v_label">grande</data>
+    </node>
+    <node id="n150">
+      <data key="v_name">conto</data>
+      <data key="v_x">-3.49149471763196</data>
+      <data key="v_y">1.5414162890671</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">31</data>
+      <data key="v_label">conto</data>
+    </node>
+    <node id="n151">
+      <data key="v_name">giapponese</data>
+      <data key="v_x">3.99369704220188</data>
+      <data key="v_y">-3.42121390070737</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">giapponese</data>
+    </node>
+    <node id="n152">
+      <data key="v_name">pane</data>
+      <data key="v_x">7.8336922018552</data>
+      <data key="v_y">0.998398155953015</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">pane</data>
+    </node>
+    <node id="n153">
+      <data key="v_name">pronto</data>
+      <data key="v_x">-0.601749579772193</data>
+      <data key="v_y">-4.25731539314729</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">pronto</data>
+    </node>
+    <node id="n154">
+      <data key="v_name">pena</data>
+      <data key="v_x">1.8263251753629</data>
+      <data key="v_y">0.762064255621349</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">pena</data>
+    </node>
+    <node id="n155">
+      <data key="v_name">vecchio</data>
+      <data key="v_x">3.3219336625104</data>
+      <data key="v_y">0.875925897489674</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">vecchio</data>
+    </node>
+    <node id="n156">
+      <data key="v_name">delizioso</data>
+      <data key="v_x">7.26526200334264</data>
+      <data key="v_y">0.964748799135373</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">20</data>
+      <data key="v_label">delizioso</data>
+    </node>
+    <node id="n157">
+      <data key="v_name">simpatia</data>
+      <data key="v_x">3.65253158290278</data>
+      <data key="v_y">-2.79341931534218</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">simpatia</data>
+    </node>
+    <node id="n158">
+      <data key="v_name">giovane</data>
+      <data key="v_x">0.394516422796486</data>
+      <data key="v_y">-1.60027885920399</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">giovane</data>
+    </node>
+    <node id="n159">
+      <data key="v_name">idea</data>
+      <data key="v_x">0.944589287881915</data>
+      <data key="v_y">-1.14985781361166</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">idea</data>
+    </node>
+    <node id="n160">
+      <data key="v_name">persona</data>
+      <data key="v_x">3.79386586641388</data>
+      <data key="v_y">-0.767046845714998</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">24</data>
+      <data key="v_label">persona</data>
+    </node>
+    <node id="n161">
+      <data key="v_name">nuovo</data>
+      <data key="v_x">3.69020061013432</data>
+      <data key="v_y">-1.80951265712761</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">20</data>
+      <data key="v_label">nuovo</data>
+    </node>
+    <node id="n162">
+      <data key="v_name">buono</data>
+      <data key="v_x">6.6677578469277</data>
+      <data key="v_y">0.0180681672917245</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">117</data>
+      <data key="v_label">buono</data>
+    </node>
+    <node id="n163">
+      <data key="v_name">luogo</data>
+      <data key="v_x">9.22587696802037</data>
+      <data key="v_y">0.506627944220833</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">luogo</data>
+    </node>
+    <node id="n164">
+      <data key="v_name">veloce</data>
+      <data key="v_x">1.90162696068646</data>
+      <data key="v_y">-0.607321548463647</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">45</data>
+      <data key="v_label">veloce</data>
+    </node>
+    <node id="n165">
+      <data key="v_name">proprietario</data>
+      <data key="v_x">2.65345892071384</data>
+      <data key="v_y">-2.09629158652127</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">29</data>
+      <data key="v_label">proprietario</data>
+    </node>
+    <node id="n166">
+      <data key="v_name">bravo</data>
+      <data key="v_x">2.12514965445857</data>
+      <data key="v_y">-2.45679438316217</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">bravo</data>
+    </node>
+    <node id="n167">
+      <data key="v_name">impeccabile</data>
+      <data key="v_x">-1.62330050493104</data>
+      <data key="v_y">-3.20649019096023</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">impeccabile</data>
+    </node>
+    <node id="n168">
+      <data key="v_name">musico</data>
+      <data key="v_x">-2.36121601860622</data>
+      <data key="v_y">0.587389233519087</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">21</data>
+      <data key="v_label">musico</data>
+    </node>
+    <node id="n169">
+      <data key="v_name">buonissimo</data>
+      <data key="v_x">1.88483219733215</data>
+      <data key="v_y">-0.851170566962957</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">54</data>
+      <data key="v_label">buonissimo</data>
+    </node>
+    <node id="n170">
+      <data key="v_name">pieno</data>
+      <data key="v_x">2.85579640999669</data>
+      <data key="v_y">0.118813087597529</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">31</data>
+      <data key="v_label">pieno</data>
+    </node>
+    <node id="n171">
+      <data key="v_name">fresco</data>
+      <data key="v_x">2.12532510013947</data>
+      <data key="v_y">-1.90886075113896</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">32</data>
+      <data key="v_label">fresco</data>
+    </node>
+    <node id="n172">
+      <data key="v_name">polpetta</data>
+      <data key="v_x">0.908757080784296</data>
+      <data key="v_y">0.0960317296625941</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">polpetta</data>
+    </node>
+    <node id="n173">
+      <data key="v_name">impasto</data>
+      <data key="v_x">4.64346500465262</data>
+      <data key="v_y">-1.97654858074604</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">impasto</data>
+    </node>
+    <node id="n174">
+      <data key="v_name">carne</data>
+      <data key="v_x">7.67945235354921</data>
+      <data key="v_y">-0.293647957906333</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">28</data>
+      <data key="v_label">carne</data>
+    </node>
+    <node id="n175">
+      <data key="v_name">amico</data>
+      <data key="v_x">-1.77140822105117</data>
+      <data key="v_y">0.413180738609178</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">51</data>
+      <data key="v_label">amico</data>
+    </node>
+    <node id="n176">
+      <data key="v_name">mercato</data>
+      <data key="v_x">2.9417281266674</data>
+      <data key="v_y">0.866856126908914</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">mercato</data>
+    </node>
+    <node id="n177">
+      <data key="v_name">vino</data>
+      <data key="v_x">1.88243763028113</data>
+      <data key="v_y">-0.388657254452799</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">43</data>
+      <data key="v_label">vino</data>
+    </node>
+    <node id="n178">
+      <data key="v_name">locale</data>
+      <data key="v_x">-0.903823998478943</data>
+      <data key="v_y">0.131385993209862</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">115</data>
+      <data key="v_label">locale</data>
+    </node>
+    <node id="n179">
+      <data key="v_name">professionalità</data>
+      <data key="v_x">3.10427287332204</data>
+      <data key="v_y">1.1655324884818</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">professionalità</data>
+    </node>
+    <node id="n180">
+      <data key="v_name">anno</data>
+      <data key="v_x">1.999354235452</data>
+      <data key="v_y">-0.182917240169641</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">38</data>
+      <data key="v_label">anno</data>
+    </node>
+    <node id="n181">
+      <data key="v_name">crema</data>
+      <data key="v_x">9.20505618846972</data>
+      <data key="v_y">0.125815475107592</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">crema</data>
+    </node>
+    <node id="n182">
+      <data key="v_name">tagliere</data>
+      <data key="v_x">9.06063112832476</data>
+      <data key="v_y">0.964412517259656</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">8</data>
+      <data key="v_label">tagliere</data>
+    </node>
+    <node id="n183">
+      <data key="v_name">solo</data>
+      <data key="v_x">2.46772878019763</data>
+      <data key="v_y">-1.77755284326353</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">48</data>
+      <data key="v_label">solo</data>
+    </node>
+    <node id="n184">
+      <data key="v_name">bevanda</data>
+      <data key="v_x">8.79606017221014</data>
+      <data key="v_y">-0.874076962288196</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">bevanda</data>
+    </node>
+    <node id="n185">
+      <data key="v_name">gelato</data>
+      <data key="v_x">1.465912945875</data>
+      <data key="v_y">2.86493121420595</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">gelato</data>
+    </node>
+    <node id="n186">
+      <data key="v_name">supplì</data>
+      <data key="v_x">3.24364045121509</data>
+      <data key="v_y">-2.56691891488288</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">supplì</data>
+    </node>
+    <node id="n187">
+      <data key="v_name">tradizionale</data>
+      <data key="v_x">0.631872720316819</data>
+      <data key="v_y">-0.0910267915822445</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">tradizionale</data>
+    </node>
+    <node id="n188">
+      <data key="v_name">fatto</data>
+      <data key="v_x">2.58045904959042</data>
+      <data key="v_y">-3.43282372053291</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">fatto</data>
+    </node>
+    <node id="n189">
+      <data key="v_name">esperienza</data>
+      <data key="v_x">7.45294887848483</data>
+      <data key="v_y">0.711494666853439</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">24</data>
+      <data key="v_label">esperienza</data>
+    </node>
+    <node id="n190">
+      <data key="v_name">giorno</data>
+      <data key="v_x">3.59643656628279</data>
+      <data key="v_y">-0.950178821013813</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">25</data>
+      <data key="v_label">giorno</data>
+    </node>
+    <node id="n191">
+      <data key="v_name">euro</data>
+      <data key="v_x">1.54980297393553</data>
+      <data key="v_y">-1.57646450999327</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">33</data>
+      <data key="v_label">euro</data>
+    </node>
+    <node id="n192">
+      <data key="v_name">birra</data>
+      <data key="v_x">2.35319963601447</data>
+      <data key="v_y">-2.03886094654724</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">26</data>
+      <data key="v_label">birra</data>
+    </node>
+    <node id="n193">
+      <data key="v_name">passato</data>
+      <data key="v_x">2.50342130181213</data>
+      <data key="v_y">-3.10163943778666</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">passato</data>
+    </node>
+    <node id="n194">
+      <data key="v_name">pomodoro</data>
+      <data key="v_x">2.14527093157607</data>
+      <data key="v_y">-2.89927808454678</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">pomodoro</data>
+    </node>
+    <node id="n195">
+      <data key="v_name">riso</data>
+      <data key="v_x">1.18322325297296</data>
+      <data key="v_y">-2.8129476357424</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">riso</data>
+    </node>
+    <node id="n196">
+      <data key="v_name">trattoria</data>
+      <data key="v_x">3.89275346079282</data>
+      <data key="v_y">-0.000384039909105481</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">trattoria</data>
+    </node>
+    <node id="n197">
+      <data key="v_name">zucca</data>
+      <data key="v_x">0.752671616523884</data>
+      <data key="v_y">-2.1990078617039</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">zucca</data>
+    </node>
+    <node id="n198">
+      <data key="v_name">classico</data>
+      <data key="v_x">1.1602453057551</data>
+      <data key="v_y">-0.669182594629972</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">23</data>
+      <data key="v_label">classico</data>
+    </node>
+    <node id="n199">
+      <data key="v_name">tradizione</data>
+      <data key="v_x">3.61461327767331</data>
+      <data key="v_y">-0.359939435029217</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">27</data>
+      <data key="v_label">tradizione</data>
+    </node>
+    <node id="n200">
+      <data key="v_name">semplice</data>
+      <data key="v_x">4.0042438645449</data>
+      <data key="v_y">-1.26783735204842</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">20</data>
+      <data key="v_label">semplice</data>
+    </node>
+    <node id="n201">
+      <data key="v_name">gradevole</data>
+      <data key="v_x">0.4244006066705</data>
+      <data key="v_y">-0.524989365817913</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">gradevole</data>
+    </node>
+    <node id="n202">
+      <data key="v_name">materia</data>
+      <data key="v_x">2.23013366846013</data>
+      <data key="v_y">2.56563783321016</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">materia</data>
+    </node>
+    <node id="n203">
+      <data key="v_name">gustoso</data>
+      <data key="v_x">1.33889033259731</data>
+      <data key="v_y">-0.908965100913064</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">28</data>
+      <data key="v_label">gustoso</data>
+    </node>
+    <node id="n204">
+      <data key="v_name">coda</data>
+      <data key="v_x">1.23796787543415</data>
+      <data key="v_y">0.840304854394891</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">coda</data>
+    </node>
+    <node id="n205">
+      <data key="v_name">contorno</data>
+      <data key="v_x">0.362739536956545</data>
+      <data key="v_y">-1.00526820372938</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">contorno</data>
+    </node>
+    <node id="n206">
+      <data key="v_name">bambino</data>
+      <data key="v_x">8.75324624072265</data>
+      <data key="v_y">-1.31784205139247</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">bambino</data>
+    </node>
+    <node id="n207">
+      <data key="v_name">onesto</data>
+      <data key="v_x">-0.32578514406414</data>
+      <data key="v_y">-4.03777191317145</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">onesto</data>
+    </node>
+    <node id="n208">
+      <data key="v_name">tavolo</data>
+      <data key="v_x">7.39992587966967</data>
+      <data key="v_y">-0.0874846145626235</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">44</data>
+      <data key="v_label">tavolo</data>
+    </node>
+    <node id="n209">
+      <data key="v_name">spazio</data>
+      <data key="v_x">8.85453903499437</data>
+      <data key="v_y">0.4183599938133</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">spazio</data>
+    </node>
+    <node id="n210">
+      <data key="v_name">fiore</data>
+      <data key="v_x">3.66845915099928</data>
+      <data key="v_y">-3.04275283157679</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">fiore</data>
+    </node>
+    <node id="n211">
+      <data key="v_name">ristorante</data>
+      <data key="v_x">3.07431041701493</data>
+      <data key="v_y">-1.1202328183305</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">55</data>
+      <data key="v_label">ristorante</data>
+    </node>
+    <node id="n212">
+      <data key="v_name">aperitivo</data>
+      <data key="v_x">7.50376563161718</data>
+      <data key="v_y">1.45575394691366</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">17</data>
+      <data key="v_label">aperitivo</data>
+    </node>
+    <node id="n213">
+      <data key="v_name">tipico</data>
+      <data key="v_x">3.30721157276776</data>
+      <data key="v_y">-0.422135244609559</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">32</data>
+      <data key="v_label">tipico</data>
+    </node>
+    <node id="n214">
+      <data key="v_name">prezzo</data>
+      <data key="v_x">0.378381272871318</data>
+      <data key="v_y">-2.59921169103711</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">117</data>
+      <data key="v_label">prezzo</data>
+    </node>
+    <node id="n215">
+      <data key="v_name">zona</data>
+      <data key="v_x">2.09075459335845</data>
+      <data key="v_y">0.00146344423210397</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">40</data>
+      <data key="v_label">zona</data>
+    </node>
+    <node id="n216">
+      <data key="v_name">cliente</data>
+      <data key="v_x">2.37018596091313</data>
+      <data key="v_y">0.1654681516346</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">37</data>
+      <data key="v_label">cliente</data>
+    </node>
+    <node id="n217">
+      <data key="v_name">attenzione</data>
+      <data key="v_x">-0.779051550000606</data>
+      <data key="v_y">-4.51318628045687</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">attenzione</data>
+    </node>
+    <node id="n218">
+      <data key="v_name">ottimo</data>
+      <data key="v_x">2.50145225741149</data>
+      <data key="v_y">-0.870814549782462</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">128</data>
+      <data key="v_label">ottimo</data>
+    </node>
+    <node id="n219">
+      <data key="v_name">oggi</data>
+      <data key="v_x">3.74023305281843</data>
+      <data key="v_y">-2.57184189841878</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">oggi</data>
+    </node>
+    <node id="n220">
+      <data key="v_name">salso</data>
+      <data key="v_x">4.6591399297603</data>
+      <data key="v_y">-1.07387996778071</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">salso</data>
+    </node>
+    <node id="n221">
+      <data key="v_name">gestore</data>
+      <data key="v_x">0.497001323950978</data>
+      <data key="v_y">3.02347788825777</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">gestore</data>
+    </node>
+    <node id="n222">
+      <data key="v_name">cacio</data>
+      <data key="v_x">-1.81775436714977</data>
+      <data key="v_y">-4.68867492637372</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">31</data>
+      <data key="v_label">cacio</data>
+    </node>
+    <node id="n223">
+      <data key="v_name">ragazzo</data>
+      <data key="v_x">1.36150880230133</data>
+      <data key="v_y">-1.20501317212125</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">25</data>
+      <data key="v_label">ragazzo</data>
+    </node>
+    <node id="n224">
+      <data key="v_name">atmosfera</data>
+      <data key="v_x">2.68804119158389</data>
+      <data key="v_y">-0.250130385327848</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">39</data>
+      <data key="v_label">atmosfera</data>
+    </node>
+    <node id="n225">
+      <data key="v_name">peccato</data>
+      <data key="v_x">8.18842060604179</data>
+      <data key="v_y">0.46664808994415</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">peccato</data>
+    </node>
+    <node id="n226">
+      <data key="v_name">tempo</data>
+      <data key="v_x">1.87453118309114</data>
+      <data key="v_y">-1.79872973065066</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">32</data>
+      <data key="v_label">tempo</data>
+    </node>
+    <node id="n227">
+      <data key="v_name">livello</data>
+      <data key="v_x">0.237669025995861</data>
+      <data key="v_y">1.43330645359313</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">livello</data>
+    </node>
+    <node id="n228">
+      <data key="v_name">sorpresa</data>
+      <data key="v_x">0.863230791112197</data>
+      <data key="v_y">2.69136233036651</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">sorpresa</data>
+    </node>
+    <node id="n229">
+      <data key="v_name">secco</data>
+      <data key="v_x">-3.08965029076634</data>
+      <data key="v_y">0.35053629094636</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">secco</data>
+    </node>
+    <node id="n230">
+      <data key="v_name">splendido</data>
+      <data key="v_x">8.47747543597906</data>
+      <data key="v_y">1.59161291227978</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">splendido</data>
+    </node>
+    <node id="n231">
+      <data key="v_name">gentile</data>
+      <data key="v_x">2.56964843548435</data>
+      <data key="v_y">-1.21455453911087</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">78</data>
+      <data key="v_label">gentile</data>
+    </node>
+    <node id="n232">
+      <data key="v_name">qualità</data>
+      <data key="v_x">1.60281056253785</data>
+      <data key="v_y">0.764948490421571</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">99</data>
+      <data key="v_label">qualità</data>
+    </node>
+    <node id="n233">
+      <data key="v_name">cuore</data>
+      <data key="v_x">7.92830870334324</data>
+      <data key="v_y">1.46124010823479</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">cuore</data>
+    </node>
+    <node id="n234">
+      <data key="v_name">staff</data>
+      <data key="v_x">1.41283651262272</data>
+      <data key="v_y">0.494880803277931</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">staff</data>
+    </node>
+    <node id="n235">
+      <data key="v_name">pausa</data>
+      <data key="v_x">4.48937144875072</data>
+      <data key="v_y">-0.433821452743241</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">pausa</data>
+    </node>
+    <node id="n236">
+      <data key="v_name">ragazza|ragazzo</data>
+      <data key="v_x">7.31849456925423</data>
+      <data key="v_y">1.73930416358714</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">ragazza|ragazzo</data>
+    </node>
+    <node id="n237">
+      <data key="v_name">bruschetta</data>
+      <data key="v_x">8.29436134598606</data>
+      <data key="v_y">1.95356141356323</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">8</data>
+      <data key="v_label">bruschetta</data>
+    </node>
+    <node id="n238">
+      <data key="v_name">grazia</data>
+      <data key="v_x">1.15043831824139</data>
+      <data key="v_y">-1.39658451215518</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">22</data>
+      <data key="v_label">grazia</data>
+    </node>
+    <node id="n239">
+      <data key="v_name">cena</data>
+      <data key="v_x">-1.53023689565329</data>
+      <data key="v_y">0.442362453658432</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">59</data>
+      <data key="v_label">cena</data>
+    </node>
+    <node id="n240">
+      <data key="v_name">pranzo</data>
+      <data key="v_x">1.82486830156486</data>
+      <data key="v_y">-1.41790147061618</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">47</data>
+      <data key="v_label">pranzo</data>
+    </node>
+    <node id="n241">
+      <data key="v_name">pesce</data>
+      <data key="v_x">3.46249988597238</data>
+      <data key="v_y">-1.76771685147944</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">23</data>
+      <data key="v_label">pesce</data>
+    </node>
+    <node id="n242">
+      <data key="v_name">antipasto</data>
+      <data key="v_x">7.32888220615474</data>
+      <data key="v_y">0.404371343774221</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">39</data>
+      <data key="v_label">antipasto</data>
+    </node>
+    <node id="n243">
+      <data key="v_name">piatto</data>
+      <data key="v_x">-2.29946586928988</data>
+      <data key="v_y">0.895512103741496</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">71</data>
+      <data key="v_label">piatto</data>
+    </node>
+    <node id="n244">
+      <data key="v_name">abbondante</data>
+      <data key="v_x">3.38567385270991</data>
+      <data key="v_y">-0.0582623519227177</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">24</data>
+      <data key="v_label">abbondante</data>
+    </node>
+    <node id="n245">
+      <data key="v_name">manzo</data>
+      <data key="v_x">-2.55184932803958</data>
+      <data key="v_y">1.69198387755373</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">manzo</data>
+    </node>
+    <node id="n246">
+      <data key="v_name">ideale</data>
+      <data key="v_x">0.560292109098645</data>
+      <data key="v_y">-1.86804543200864</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">ideale</data>
+    </node>
+    <node id="n247">
+      <data key="v_name">torta</data>
+      <data key="v_x">9.46471766533485</data>
+      <data key="v_y">-0.261320333207215</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">torta</data>
+    </node>
+    <node id="n248">
+      <data key="v_name">famiglia</data>
+      <data key="v_x">7.96663765787553</data>
+      <data key="v_y">0.739267673661765</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">famiglia</data>
+    </node>
+    <node id="n249">
+      <data key="v_name">sicuramente</data>
+      <data key="v_x">2.10663269460247</data>
+      <data key="v_y">-1.50574524388625</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">51</data>
+      <data key="v_label">sicuramente</data>
+    </node>
+    <node id="n250">
+      <data key="v_name">olio</data>
+      <data key="v_x">1.90684613190606</data>
+      <data key="v_y">-3.43125163856907</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">olio</data>
+    </node>
+    <node id="n251">
+      <data key="v_name">pasto</data>
+      <data key="v_x">3.11417112527381</data>
+      <data key="v_y">-3.10449634022142</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">pasto</data>
+    </node>
+    <node id="n252">
+      <data key="v_name">pasta</data>
+      <data key="v_x">3.36022325930994</data>
+      <data key="v_y">-1.20683218486883</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">32</data>
+      <data key="v_label">pasta</data>
+    </node>
+    <node id="n253">
+      <data key="v_name">banco</data>
+      <data key="v_x">8.37941285684235</data>
+      <data key="v_y">-1.45851782555979</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">banco</data>
+    </node>
+    <node id="n254">
+      <data key="v_name">gruppo</data>
+      <data key="v_x">-3.13619428148198</data>
+      <data key="v_y">-0.139508697870939</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">gruppo</data>
+    </node>
+    <node id="n255">
+      <data key="v_name">varietà</data>
+      <data key="v_x">1.04230696627514</data>
+      <data key="v_y">2.2218702374999</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">20</data>
+      <data key="v_label">varietà</data>
+    </node>
+    <node id="n256">
+      <data key="v_name">ultimo</data>
+      <data key="v_x">-0.694333861400332</data>
+      <data key="v_y">-3.85846015134646</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">ultimo</data>
+    </node>
+    <node id="n257">
+      <data key="v_name">misto</data>
+      <data key="v_x">-2.81481824830905</data>
+      <data key="v_y">0.787185071622525</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">misto</data>
+    </node>
+    <node id="n258">
+      <data key="v_name">formaggio</data>
+      <data key="v_x">-2.55113216307724</data>
+      <data key="v_y">1.10347321242697</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">formaggio</data>
+    </node>
+    <node id="n259">
+      <data key="v_name">ingrediente</data>
+      <data key="v_x">2.99133314473974</data>
+      <data key="v_y">-0.123991728332549</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">34</data>
+      <data key="v_label">ingrediente</data>
+    </node>
+    <node id="n260">
+      <data key="v_name">taglio</data>
+      <data key="v_x">0.947703213410448</data>
+      <data key="v_y">-2.57016313690909</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">taglio</data>
+    </node>
+    <node id="n261">
+      <data key="v_name">eccezionale</data>
+      <data key="v_x">7.16577860657171</data>
+      <data key="v_y">1.21276962459428</data>
+      <data key="v_weight">0</data>
+      <data key="v_color">black</data>
+      <data key="v_frequences">21</data>
+      <data key="v_label">eccezionale</data>
+    </node>
+    <edge source="n15" target="n34">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n45" target="n67">
+      <data key="e_weight">2.41176470588235</data>
+    </edge>
+    <edge source="n34" target="n95">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n103" target="n115">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n52" target="n117">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n103" target="n125">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n18" target="n126">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n71" target="n126">
+      <data key="e_weight">2.85294117647059</data>
+    </edge>
+    <edge source="n52" target="n132">
+      <data key="e_weight">1.52941176470588</data>
+    </edge>
+    <edge source="n103" target="n140">
+      <data key="e_weight">1.52941176470588</data>
+    </edge>
+    <edge source="n52" target="n141">
+      <data key="e_weight">1.44117647058824</data>
+    </edge>
+    <edge source="n2" target="n162">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n8" target="n162">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n9" target="n162">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n22" target="n162">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n30" target="n162">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n36" target="n162">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n37" target="n162">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n42" target="n162">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n44" target="n162">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n46" target="n162">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n52" target="n162">
+      <data key="e_weight">5.05882352941176</data>
+    </edge>
+    <edge source="n58" target="n162">
+      <data key="e_weight">2.67647058823529</data>
+    </edge>
+    <edge source="n65" target="n162">
+      <data key="e_weight">2.67647058823529</data>
+    </edge>
+    <edge source="n72" target="n162">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n75" target="n162">
+      <data key="e_weight">1.52941176470588</data>
+    </edge>
+    <edge source="n77" target="n162">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n84" target="n162">
+      <data key="e_weight">1.44117647058824</data>
+    </edge>
+    <edge source="n102" target="n162">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n107" target="n162">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n120" target="n162">
+      <data key="e_weight">3.38235294117647</data>
+    </edge>
+    <edge source="n129" target="n162">
+      <data key="e_weight">3.47058823529412</data>
+    </edge>
+    <edge source="n131" target="n162">
+      <data key="e_weight">3.64705882352941</data>
+    </edge>
+    <edge source="n135" target="n162">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n136" target="n162">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n138" target="n162">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n142" target="n162">
+      <data key="e_weight">4.08823529411765</data>
+    </edge>
+    <edge source="n145" target="n162">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n152" target="n162">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n156" target="n162">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n112" target="n163">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n162" target="n163">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n162" target="n174">
+      <data key="e_weight">3.02941176470588</data>
+    </edge>
+    <edge source="n10" target="n178">
+      <data key="e_weight">3.11764705882353</data>
+    </edge>
+    <edge source="n11" target="n178">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n20" target="n178">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n28" target="n178">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n38" target="n178">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n43" target="n178">
+      <data key="e_weight">3.64705882352941</data>
+    </edge>
+    <edge source="n50" target="n178">
+      <data key="e_weight">3.64705882352941</data>
+    </edge>
+    <edge source="n56" target="n178">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n76" target="n178">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n78" target="n178">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n79" target="n178">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n92" target="n178">
+      <data key="e_weight">3.47058823529412</data>
+    </edge>
+    <edge source="n93" target="n178">
+      <data key="e_weight">3.82352941176471</data>
+    </edge>
+    <edge source="n96" target="n178">
+      <data key="e_weight">1.52941176470588</data>
+    </edge>
+    <edge source="n114" target="n178">
+      <data key="e_weight">4.35294117647059</data>
+    </edge>
+    <edge source="n118" target="n178">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n168" target="n178">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n175" target="n178">
+      <data key="e_weight">4.79411764705882</data>
+    </edge>
+    <edge source="n162" target="n181">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n162" target="n182">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n162" target="n184">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n39" target="n185">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n162" target="n189">
+      <data key="e_weight">2.94117647058824</data>
+    </edge>
+    <edge source="n103" target="n202">
+      <data key="e_weight">2.41176470588235</data>
+    </edge>
+    <edge source="n162" target="n206">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n162" target="n208">
+      <data key="e_weight">4.35294117647059</data>
+    </edge>
+    <edge source="n162" target="n209">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n162" target="n212">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n0" target="n214">
+      <data key="e_weight">3.55882352941176</data>
+    </edge>
+    <edge source="n40" target="n214">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n49" target="n214">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n70" target="n214">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n89" target="n214">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n97" target="n214">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n98" target="n214">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n100" target="n214">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n105" target="n214">
+      <data key="e_weight">3.38235294117647</data>
+    </edge>
+    <edge source="n121" target="n214">
+      <data key="e_weight">3.47058823529412</data>
+    </edge>
+    <edge source="n127" target="n214">
+      <data key="e_weight">4.88235294117647</data>
+    </edge>
+    <edge source="n130" target="n214">
+      <data key="e_weight">3.47058823529412</data>
+    </edge>
+    <edge source="n153" target="n214">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n167" target="n214">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n207" target="n214">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n214" target="n217">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n1" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n3" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n4" target="n218">
+      <data key="e_weight">3.38235294117647</data>
+    </edge>
+    <edge source="n5" target="n218">
+      <data key="e_weight">2.94117647058824</data>
+    </edge>
+    <edge source="n6" target="n218">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n7" target="n218">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n12" target="n218">
+      <data key="e_weight">4.08823529411765</data>
+    </edge>
+    <edge source="n13" target="n218">
+      <data key="e_weight">4.61764705882353</data>
+    </edge>
+    <edge source="n14" target="n218">
+      <data key="e_weight">3.47058823529412</data>
+    </edge>
+    <edge source="n16" target="n218">
+      <data key="e_weight">3.64705882352941</data>
+    </edge>
+    <edge source="n17" target="n218">
+      <data key="e_weight">2.41176470588235</data>
+    </edge>
+    <edge source="n19" target="n218">
+      <data key="e_weight">6.29411764705882</data>
+    </edge>
+    <edge source="n21" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n23" target="n218">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n24" target="n218">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n25" target="n218">
+      <data key="e_weight">2.5</data>
+    </edge>
+    <edge source="n26" target="n218">
+      <data key="e_weight">3.29411764705882</data>
+    </edge>
+    <edge source="n27" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n29" target="n218">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n31" target="n218">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n32" target="n218">
+      <data key="e_weight">3.47058823529412</data>
+    </edge>
+    <edge source="n33" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n34" target="n218">
+      <data key="e_weight">6.64705882352941</data>
+    </edge>
+    <edge source="n35" target="n218">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n39" target="n218">
+      <data key="e_weight">4.17647058823529</data>
+    </edge>
+    <edge source="n41" target="n218">
+      <data key="e_weight">4.44117647058824</data>
+    </edge>
+    <edge source="n45" target="n218">
+      <data key="e_weight">7.97058823529412</data>
+    </edge>
+    <edge source="n47" target="n218">
+      <data key="e_weight">3.11764705882353</data>
+    </edge>
+    <edge source="n48" target="n218">
+      <data key="e_weight">5.23529411764706</data>
+    </edge>
+    <edge source="n51" target="n218">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n53" target="n218">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n54" target="n218">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n55" target="n218">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n57" target="n218">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n59" target="n218">
+      <data key="e_weight">2.41176470588235</data>
+    </edge>
+    <edge source="n61" target="n218">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n62" target="n218">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n63" target="n218">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n64" target="n218">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n66" target="n218">
+      <data key="e_weight">4.35294117647059</data>
+    </edge>
+    <edge source="n68" target="n218">
+      <data key="e_weight">3.11764705882353</data>
+    </edge>
+    <edge source="n69" target="n218">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n73" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n80" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n81" target="n218">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n82" target="n218">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n83" target="n218">
+      <data key="e_weight">4.35294117647059</data>
+    </edge>
+    <edge source="n85" target="n218">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n86" target="n218">
+      <data key="e_weight">5.85294117647059</data>
+    </edge>
+    <edge source="n87" target="n218">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n88" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n90" target="n218">
+      <data key="e_weight">2.41176470588235</data>
+    </edge>
+    <edge source="n94" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n99" target="n218">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n101" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n103" target="n218">
+      <data key="e_weight">7.17647058823529</data>
+    </edge>
+    <edge source="n104" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n106" target="n218">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n108" target="n218">
+      <data key="e_weight">3.11764705882353</data>
+    </edge>
+    <edge source="n109" target="n218">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n110" target="n218">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n111" target="n218">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n113" target="n218">
+      <data key="e_weight">4.08823529411765</data>
+    </edge>
+    <edge source="n116" target="n218">
+      <data key="e_weight">4.88235294117647</data>
+    </edge>
+    <edge source="n119" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n122" target="n218">
+      <data key="e_weight">2.76470588235294</data>
+    </edge>
+    <edge source="n123" target="n218">
+      <data key="e_weight">3.73529411764706</data>
+    </edge>
+    <edge source="n124" target="n218">
+      <data key="e_weight">3.11764705882353</data>
+    </edge>
+    <edge source="n126" target="n218">
+      <data key="e_weight">8.41176470588235</data>
+    </edge>
+    <edge source="n128" target="n218">
+      <data key="e_weight">2.41176470588235</data>
+    </edge>
+    <edge source="n133" target="n218">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n134" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n137" target="n218">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n139" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n143" target="n218">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n144" target="n218">
+      <data key="e_weight">2.41176470588235</data>
+    </edge>
+    <edge source="n146" target="n218">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n147" target="n218">
+      <data key="e_weight">2.94117647058824</data>
+    </edge>
+    <edge source="n148" target="n218">
+      <data key="e_weight">3.29411764705882</data>
+    </edge>
+    <edge source="n149" target="n218">
+      <data key="e_weight">4.17647058823529</data>
+    </edge>
+    <edge source="n151" target="n218">
+      <data key="e_weight">1.52941176470588</data>
+    </edge>
+    <edge source="n154" target="n218">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n155" target="n218">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n157" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n158" target="n218">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n159" target="n218">
+      <data key="e_weight">2.41176470588235</data>
+    </edge>
+    <edge source="n160" target="n218">
+      <data key="e_weight">2.76470588235294</data>
+    </edge>
+    <edge source="n161" target="n218">
+      <data key="e_weight">2.5</data>
+    </edge>
+    <edge source="n162" target="n218">
+      <data key="e_weight">9.64705882352941</data>
+    </edge>
+    <edge source="n164" target="n218">
+      <data key="e_weight">4.61764705882353</data>
+    </edge>
+    <edge source="n165" target="n218">
+      <data key="e_weight">3.11764705882353</data>
+    </edge>
+    <edge source="n166" target="n218">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n169" target="n218">
+      <data key="e_weight">5.05882352941176</data>
+    </edge>
+    <edge source="n170" target="n218">
+      <data key="e_weight">3.55882352941176</data>
+    </edge>
+    <edge source="n171" target="n218">
+      <data key="e_weight">3.47058823529412</data>
+    </edge>
+    <edge source="n172" target="n218">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n173" target="n218">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n176" target="n218">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n177" target="n218">
+      <data key="e_weight">4.44117647058824</data>
+    </edge>
+    <edge source="n178" target="n218">
+      <data key="e_weight">9.8235294117647</data>
+    </edge>
+    <edge source="n179" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n180" target="n218">
+      <data key="e_weight">3.82352941176471</data>
+    </edge>
+    <edge source="n183" target="n218">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n186" target="n218">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n187" target="n218">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n188" target="n218">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n190" target="n218">
+      <data key="e_weight">2.94117647058824</data>
+    </edge>
+    <edge source="n191" target="n218">
+      <data key="e_weight">3.20588235294118</data>
+    </edge>
+    <edge source="n192" target="n218">
+      <data key="e_weight">3.20588235294118</data>
+    </edge>
+    <edge source="n193" target="n218">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n194" target="n218">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n195" target="n218">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n196" target="n218">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n197" target="n218">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n198" target="n218">
+      <data key="e_weight">2.76470588235294</data>
+    </edge>
+    <edge source="n199" target="n218">
+      <data key="e_weight">3.02941176470588</data>
+    </edge>
+    <edge source="n200" target="n218">
+      <data key="e_weight">2.5</data>
+    </edge>
+    <edge source="n201" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n203" target="n218">
+      <data key="e_weight">3.20588235294118</data>
+    </edge>
+    <edge source="n204" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n205" target="n218">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n210" target="n218">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n211" target="n218">
+      <data key="e_weight">5.14705882352941</data>
+    </edge>
+    <edge source="n213" target="n218">
+      <data key="e_weight">3.47058823529412</data>
+    </edge>
+    <edge source="n214" target="n218">
+      <data key="e_weight">10</data>
+    </edge>
+    <edge source="n215" target="n218">
+      <data key="e_weight">3.91176470588235</data>
+    </edge>
+    <edge source="n216" target="n218">
+      <data key="e_weight">3.73529411764706</data>
+    </edge>
+    <edge source="n218" target="n219">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n218" target="n220">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n121" target="n222">
+      <data key="e_weight">3.64705882352941</data>
+    </edge>
+    <edge source="n218" target="n223">
+      <data key="e_weight">3.02941176470588</data>
+    </edge>
+    <edge source="n218" target="n224">
+      <data key="e_weight">4.35294117647059</data>
+    </edge>
+    <edge source="n162" target="n225">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n218" target="n226">
+      <data key="e_weight">3.38235294117647</data>
+    </edge>
+    <edge source="n45" target="n227">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n178" target="n229">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n162" target="n230">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n218" target="n231">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n60" target="n232">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n91" target="n232">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n218" target="n232">
+      <data key="e_weight">8.41176470588235</data>
+    </edge>
+    <edge source="n221" target="n232">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n228" target="n232">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n162" target="n233">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n218" target="n234">
+      <data key="e_weight">2.23529411764706</data>
+    </edge>
+    <edge source="n218" target="n235">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n162" target="n236">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n162" target="n237">
+      <data key="e_weight">1.61764705882353</data>
+    </edge>
+    <edge source="n218" target="n238">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n178" target="n239">
+      <data key="e_weight">5.58823529411765</data>
+    </edge>
+    <edge source="n218" target="n240">
+      <data key="e_weight">4.44117647058824</data>
+    </edge>
+    <edge source="n218" target="n241">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+    <edge source="n162" target="n242">
+      <data key="e_weight">4.17647058823529</data>
+    </edge>
+    <edge source="n74" target="n243">
+      <data key="e_weight">1.44117647058824</data>
+    </edge>
+    <edge source="n150" target="n243">
+      <data key="e_weight">3.29411764705882</data>
+    </edge>
+    <edge source="n178" target="n243">
+      <data key="e_weight">6.47058823529412</data>
+    </edge>
+    <edge source="n218" target="n244">
+      <data key="e_weight">3.02941176470588</data>
+    </edge>
+    <edge source="n178" target="n245">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n218" target="n246">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n162" target="n247">
+      <data key="e_weight">1.52941176470588</data>
+    </edge>
+    <edge source="n162" target="n248">
+      <data key="e_weight">2.32352941176471</data>
+    </edge>
+    <edge source="n218" target="n249">
+      <data key="e_weight">4.61764705882353</data>
+    </edge>
+    <edge source="n218" target="n250">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n218" target="n251">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n218" target="n252">
+      <data key="e_weight">3.55882352941176</data>
+    </edge>
+    <edge source="n162" target="n253">
+      <data key="e_weight">1.70588235294118</data>
+    </edge>
+    <edge source="n178" target="n254">
+      <data key="e_weight">1.88235294117647</data>
+    </edge>
+    <edge source="n232" target="n255">
+      <data key="e_weight">2.5</data>
+    </edge>
+    <edge source="n214" target="n256">
+      <data key="e_weight">2.14705882352941</data>
+    </edge>
+    <edge source="n178" target="n257">
+      <data key="e_weight">1.97058823529412</data>
+    </edge>
+    <edge source="n178" target="n258">
+      <data key="e_weight">2.05882352941176</data>
+    </edge>
+    <edge source="n218" target="n259">
+      <data key="e_weight">3.64705882352941</data>
+    </edge>
+    <edge source="n218" target="n260">
+      <data key="e_weight">1.79411764705882</data>
+    </edge>
+    <edge source="n162" target="n261">
+      <data key="e_weight">2.58823529411765</data>
+    </edge>
+  </graph>
+</graphml>

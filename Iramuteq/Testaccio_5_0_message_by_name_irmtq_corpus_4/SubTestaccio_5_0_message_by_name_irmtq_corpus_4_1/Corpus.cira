@@ -1,0 +1,16 @@
+[corpus]
+pathout = C:\Users\consu\Documents\iramuteq graziano\Testaccio_5_0_message_by_name_irmtq_corpus_4\SubTestaccio_5_0_message_by_name_irmtq_corpus_4_1
+uuid = f2a00f2b-b290-4efa-b060-f6a7d9f50681
+encoding = cp1252
+formesnb = 3963
+ucinb = 59
+hapax = 2381 - 60.08 % des formes - 13.12 % des occurrences
+ucenb = 59
+meta = [u'*RATING_1.2', u'*RATING_1.8', u'*RATING_2', u'*RATING_2.2', u'*RATING_2.4', u'*RATING_2.6', u'*RATING_2.8', u'*RATING_3', u'*RATING_3.2', u'*RATING_3.4', u'*RATING_3.6', u'*RATING_3.8']
+originalpath = C:\Users\consu\Documents\iramuteq graziano\Testaccio_5_0_message_by_name_irmtq.txt
+corpus_name = SubTestaccio_5_0_message_by_name_irmtq_corpus_4
+time = 0h 0m 0s
+date = Sat Mar 14 11:46:23 2020
+ira = C:\Users\consu\Documents\iramuteq graziano\Testaccio_5_0_message_by_name_irmtq_corpus_4\SubTestaccio_5_0_message_by_name_irmtq_corpus_4_1\Corpus.cira
+type = corpus
+occurrences = 18154

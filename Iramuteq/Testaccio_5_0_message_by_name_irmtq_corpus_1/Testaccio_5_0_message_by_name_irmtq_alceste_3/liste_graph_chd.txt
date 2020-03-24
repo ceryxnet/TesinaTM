@@ -1,0 +1,3 @@
+dendro1.png;dendrogramme à partir de chd1
+arbre_1.png;chd1
+C:\\Users\\consu\\Documents\\iramuteq graziano\\Testaccio_5_0_message_by_name_irmtq_corpus_1\\Testaccio_5_0_message_by_name_irmtq_alceste_3\\dendrogramme_1.png;Dendrogramme CHD1 - phylogram
